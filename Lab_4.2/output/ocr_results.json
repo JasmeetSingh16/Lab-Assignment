@@ -1,0 +1,30 @@
+{
+    "basic_ocr_text": "YOUR\nLOGO\n\nINVOICE\n\nDate: 02 June, 2030\n\nBilled to:\n\nStudio Shodwe\n\n123 Anywhere St., Any City\nhello@reallygreatsite.com\n\nItem\n\nLogo\nBanner (2x6m)\n\nPoster (1x2m)\n\nPayment method: Cash\n\nQuantity\n\nNote: Thank you for choosing us!\n\nNO. 000001\n\nFrom:\n\nOlivia Wilson\n\n123 Anywhere St., Any City\nhello@reallygreatsite.com\n\nPrice Amount\n$500 $500\n$45 $90\n$55 $165\nTotal $755\n\n \n\f",
+    "processed_ocr_text": "YOUR\nLOGO\n\nNo. 000001\n\nINVOICE\n\nDate: 02 June, 2030\n\nBilled to:\n\nStudio Shodwe\n\n123 Anywhere St., Any City\nhello@reallygreatsite.com\n\nItem\n\nLogo\nBanner (2x6m)\n\nPoster (1x2m)\n\nPayment method: Cash\n\nFrom:\n\nOlivia Wilson\n\n123 Anywhere St., Any City\nhello@reallygreatsite.com\n\nQuantity Price Amount\n1 $500 $500\n\n2 $45 $90\n\n3 $55 $165\n\nTotal $755\n\nNote: Thank you for choosing us!\n\n \n\f",
+    "dates": [],
+    "amounts": [
+        "000001",
+        "02",
+        "2030",
+        "123",
+        "2",
+        "6",
+        "1",
+        "2",
+        "123",
+        "1",
+        "$500",
+        "$500",
+        "2",
+        "$45",
+        "$90",
+        "3",
+        "$55",
+        "$165",
+        "$755"
+    ],
+    "emails": [
+        "hello@reallygreatsite.com",
+        "hello@reallygreatsite.com"
+    ]
+}
